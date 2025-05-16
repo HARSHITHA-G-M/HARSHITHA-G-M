@@ -32,7 +32,6 @@ https://www.linkedin.com/in/harshitha-g-m-27b128279/
 
 ### 📊 GitHub Stats
 
-![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARSHITHA-G-M&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHITHA-G-M&layout=compact&theme=radical)
 
 ---
