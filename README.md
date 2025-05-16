@@ -3,7 +3,7 @@
 <p align="center">
 🚀 Currently working on: <b>DevOps and Cloud</b><br>
 🌱 Learning: <b>Jenkins and Ansible</b><br>
-💬 Ask me about: Docker, Kubernetes, Jenkins, Ansible, Terraform, AWS, Linux, Git, CI/CD<br>
+💬 Ask me about: Docker, Kubernetes, Jenkins, Ansible, Terraform, AWS, Linux, Git and github ,python,java,html,css,django <br>
 📫 Reach me via Linkdin: https://www.linkedin.com/in/harshitha-g-m-27b128279/ </a>
 </p>
 
