@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harshitha G M</h1>
 
 <p align="center">
+  🚀 DevOps Enthusiast | ☁️ Cloud Learner | 💻 Django developer
+</p>
+
+<p align="center">
 🚀 Currently working on: <b>DevOps and Cloud</b><br>
 🌱 Learning: <b>Jenkins and Ansible</b><br>
 💬 Ask me about: Docker, Kubernetes, Jenkins, Ansible, Terraform, AWS, Linux, Git and github ,python,java,html,css,django <br>
