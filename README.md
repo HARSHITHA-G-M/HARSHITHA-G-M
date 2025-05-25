@@ -12,9 +12,6 @@
 </p>
 
 ---
-
-### 🌐 Connect with me
-https://www.linkedin.com/in/harshitha-g-m-27b128279/
 ---
 
 ### 🛠️ Languages and Tools
