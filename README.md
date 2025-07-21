@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  🌱 Currently mastering: <b>Jenkins, Ansible & AWS</b><br>
-  💬 Ask me about: <b>Docker, Kubernetes, Jenkins, Ansible, Terraform, AWS, Linux, Git, Python</b><br>
+  🌱 Currently mastering: <b> AWS</b><br>
+  💬 Ask me about: <b>Docker, Kubernetes, Jenkins, Ansible, Terraform, AWS, Linux, Git, github , Python </b><br>
 </p>
 
 ---
