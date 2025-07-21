@@ -80,14 +80,9 @@
 
 ---
 
-## 🔥 **Streak Stats**
+# 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HARSHITHA-G-M&theme=radical"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=HARSHITHA-G-M&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
----
+✨ *“Automating everything, one pipeline at a time!”* ✨
 
-<p align="center">
-  ✨ *“Automating everything, one pipeline at a time!”* ✨
-</p>
