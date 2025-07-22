@@ -1,35 +1,55 @@
-<p align="center">🚀 Harshitha G M</p>
-<p align="center"> <b>DevOps Engineer | Cloud & Automation Enthusiast | CI/CD Specialist</b> </p> <p align="center"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/> </p>
-👩‍💻 About Me
-✅ DevOps Enthusiast with a focus on Cloud Infrastructure, CI/CD, and Automation.
-✅ Experienced with containerization & orchestration (Docker & Kubernetes).
-✅ Skilled in AWS, Jenkins, Ansible, Terraform, Git, and Linux.
-✅ Passionate about building scalable, automated deployment pipelines.
+<!-- 🚀 DevOps Profile README -->
 
-🚀 Featured Projects
-1️⃣ FlaskOps CI/CD
-What I Did: Automated CI/CD pipeline for a Flask application.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Harshitha+G+M;Cloud+%26+DevOps+Enthusiast;Passionate+about+Automation+%26+CI%2FCD;Welcome+to+my+GitHub!">
+</p>
 
-Tech: Jenkins, Docker, GitHub, Flask
+---
 
-Highlights: Unit testing → Docker build → Automatic deployment
+## 👩‍💻 **About Me**
 
-2️⃣ CI/CD with Jenkins, Ansible & Docker
-What I Did: Automated server configuration & deployments.
+- 🌩️ **Aspiring Cloud & DevOps Engineer**  
+- 🔄 Passionate about **CI/CD, Docker, Kubernetes, Terraform, and AWS**  
+- 🏗️ Learning & building **real-world DevOps projects**  
+- ✍️ I write blogs and share my learnings (link soon)  
+- 🎯 Always exploring **Cloud, Automation & Infrastructure as Code**
 
-Tech: Jenkins, Ansible, Docker, AWS EC2
+---
 
-Highlights: Jenkins triggers Ansible → Configures servers → Deploys containerized app
+## 🛠 **Tech Stack & Tools**
 
-3️⃣ Two-Tier Flask + MySQL Application
-What I Did: Built a two-tier web app (Flask + MySQL).
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,github,git,linux,python,bash,vscode&theme=light" />
+</p>
 
-Tech: Docker, Docker Compose, Flask, MySQL
+---
 
-Highlights: Completely containerized multi-tier application
+## 📊 **GitHub Stats**
 
-📊 GitHub Insights
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HARSHITHA-G-M&show_icons=true&theme=tokyonight" height="165"/> <img src="https://streak-stats.demolab.com?user=HARSHITHA-G-M&theme=tokyonight" height="165"/> </p>
-🏆 Achievements & Activity
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=HARSHITHA-G-M&theme=flat&no-frame=true&margin-w=15&column=5"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHITHA-G-M&theme=github"/> </p>
-<p align="center"> ✨ *“Automating everything, one pipeline at a time!”* ✨ </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHITHA-G-M&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HARSHITHA-G-M&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHITHA-G-M&layout=compact&theme=radical" height="150">
+</p>
+
+---
+
+## 🌐 **Connect With Me**
+
+<p align="center">
+<a href="https://github.com/HARSHITHA-G-M"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="YOUR_BLOG_OR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+---
+
+## ⚡ **Fun Fact**
+💡 I love exploring **Cloud Technologies**, writing **DevOps blogs**, and improving **automation workflows**.
+
+---
+
+### ⭐ _"Keep Automating, Keep Learning, Keep Sharing!"_
