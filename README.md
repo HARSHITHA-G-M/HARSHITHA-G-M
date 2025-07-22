@@ -8,18 +8,18 @@
 
 ## 👩‍💻 **About Me**
 
-- 🌩️ **Aspiring Cloud & DevOps Engineer**  
-- 🔄 Passionate about **CI/CD, Docker, Kubernetes, Terraform, and AWS**  
-- 🏗️ Learning & building **real-world DevOps projects**  
-- ✍️ I write blogs and share my learnings (link soon)  
-- 🎯 Always exploring **Cloud, Automation & Infrastructure as Code**
+- ☁️ **Cloud & DevOps Enthusiast** exploring **AWS, Azure & CI/CD Pipelines**  
+- 🐳 Skilled in **Docker, Terraform, Kubernetes, Linux & GitHub Actions**  
+- 🔄 Passionate about **Automation & Infrastructure as Code**  
+- ✍️ Sharing my learnings & DevOps journey  
+- ⚡ Always learning new tools & building **real-world projects**
 
 ---
 
 ## 🛠 **Tech Stack & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,github,git,linux,python,bash,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,github,git,linux,python,bash,vscode" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ---
 
 ## ⚡ **Fun Fact**
-💡 I love exploring **Cloud Technologies**, writing **DevOps blogs**, and improving **automation workflows**.
+💡 *"I love exploring Cloud & DevOps technologies, writing blogs, and building automation workflows!"*
 
 ---
 
