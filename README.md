@@ -1,7 +1,11 @@
-<!-- 🌟 Harshitha G M GitHub Profile README (WOW Version) -->
+<!-- 🌟 Harshitha G M GitHub Profile README (Ultra-Wow Version) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFB347&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B,+I'm+Harshitha+G+M;Cloud+%26+DevOps+Engineer;Turning+Ideas+Into+Scalable+Solutions;Let's+Build+Something+Impactful!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B,+I'm+Harshitha+G+M;Cloud+%26+DevOps+Engineer;Turning+Ideas+Into+Scalable+Solutions;Let's+Build+Something+Impactful!" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF6EC7,100:6A5ACD&height=120&section=header&text=Welcome%20to%20My%20World%20of%20DevOps!&fontSize=28&fontColor=ffffff" />
 </p>
 
 ---
@@ -9,7 +13,7 @@
 <h2 align="center">✨ About Me</h2>
 
 <p align="center">
-👋 <b>Harshitha G M</b> here – a <b>Cloud & DevOps Engineer</b> who believes in **turning complexity into simplicity through automation**.  
+👋 <b>Harshitha G M</b> – a <b>Cloud & DevOps Engineer</b> who believes in **turning complexity into simplicity through automation**.  
 I thrive at the intersection of <b>technology, scalability, and innovation</b>.  
 </p>
 
@@ -17,14 +21,23 @@ I thrive at the intersection of <b>technology, scalability, and innovation</b>.
 🎯 <b>What I Do</b><br>
 ☁️ Build <b>CI/CD Pipelines</b> & design <b>Infrastructure as Code</b> that scales<br>
 🐳 Craft containerized solutions with <b>Docker, Jenkins, Terraform, Kubernetes</b><br>
-🚀 Love transforming manual deployments into <b>automated, error-free pipelines</b><br>
-🌟 Driven by the thrill of seeing ideas move from code to production seamlessly
+🚀 Transform manual deployments into <b>automated, error-free pipelines</b><br>
+🌟 Obsessed with making <b>deployments seamless & lightning-fast</b>
 </p>
 
 <p align="center">
 🌱 <b>Current Goals</b><br>
+✔️ Master advanced <b>GitOps & Kubernetes</b> workflows<br>
 ✔️ Contribute to <b>open-source DevOps projects</b> that make real impact<br>
 ✔️ Grow into a <b>DevOps Engineer role</b> where I can design systems that empower innovation at scale
+</p>
+
+<p align="center">
+📧 <b>Reach Me At</b> → <a href="mailto:gmharshitha123@gmail.com">gmharshitha123@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=2&section=footer" />
 </p>
 
 ---
@@ -50,6 +63,17 @@ I thrive at the intersection of <b>technology, scalability, and innovation</b>.
 
 ---
 
+<h2 align="center">📌 My Work in Action</h2>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/00000000/demo1.gif" width="400" />  
+<img src="https://user-images.githubusercontent.com/00000000/demo2.gif" width="400" />  
+</p>
+
+*(Replace above GIF URLs with real project GIFs or screenshots later!)*
+
+---
+
 <h2 align="center">👨‍💼 Mentors & Inspirations</h2>
 
 <p align="center">
@@ -62,12 +86,12 @@ I thrive at the intersection of <b>technology, scalability, and innovation</b>.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHITHA-G-M&show_icons=true&theme=tokyonight&bg_color=0,1a1a1a,0d1117&title_color=FFB347&text_color=FFFFFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHITHA-G-M&show_icons=true&theme=tokyonight&bg_color=0,1a1a1a,0d1117&title_color=FF6EC7&text_color=FFFFFF" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HARSHITHA-G-M&theme=tokyonight&background=0d1117" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHITHA-G-M&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=FFB347&text_color=FFFFFF" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHITHA-G-M&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=FF6EC7&text_color=FFFFFF" height="150" />
 </p>
 
 ---
@@ -75,7 +99,7 @@ I thrive at the intersection of <b>technology, scalability, and innovation</b>.
 <h2 align="center">🌈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHITHA-G-M&theme=react-dark&bg_color=0d1117&color=FFB347&line=FFB347&point=FFFFFF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHITHA-G-M&theme=react-dark&bg_color=0d1117&color=FF6EC7&line=FF6EC7&point=FFFFFF&area=true" />
 </p>
 
 ---
@@ -113,3 +137,15 @@ I thrive at the intersection of <b>technology, scalability, and innovation</b>.
 <h3 align="center">💡 <i>"Every automated pipeline I build isn’t just code — it’s a promise of reliability, speed, and innovation."</i></h3>
 <h3 align="center">🚀 <i>"I dream in YAML, think in containers, and believe great DevOps is invisible to the end-user but transformative to the business."</i></h3>
 <h3 align="center">✨ <i>"Let’s build systems today that the future thanks us for."</i> ✨</h3>
+
+---
+
+<h2 align="center">😄 Fun Twist</h2>
+
+<p align="center">
+💻 When I’m not automating pipelines, you’ll probably find me binge-watching tech talks or sketching out crazy ideas for my next project 🚀  
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:6A5ACD,100:FF6EC7&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff" />
+</p>
