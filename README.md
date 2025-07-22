@@ -1,7 +1,7 @@
-<!-- 🌟 Harshitha G M GitHub Profile README -->
+<!-- 🌟 Harshitha G M GitHub Profile README with Gradient & Metrics -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Harshitha+G+M;Cloud+%26+DevOps+Enthusiast;Passionate+about+Automation+%26+CI%2FCD;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B,+I'm+Harshitha+G+M;Cloud+%26+DevOps+Enthusiast;Passionate+about+Automation+%26+CI%2FCD;Welcome+to+my+GitHub!">
 </p>
 
 ---
@@ -32,19 +32,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHITHA-G-M&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HARSHITHA-G-M&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHITHA-G-M&layout=compact&theme=tokyonight" height="150">
-</p>
-
----
-
 ## 🚀 **Featured Projects**
 
 | Project | Description | Tech Stack |
@@ -58,6 +45,45 @@
 
 - **🎥 YouTube Gurus:** Abhishek Veeramalla, Train With Shubham  
 - **🌟 Inspiration:** DevOps community leaders & open-source contributors  
+
+---
+
+## 📊 **GitHub Stats (Gradient Version)**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHITHA-G-M&show_icons=true&theme=radical&bg_color=0,00c6ff,0072ff&title_color=fff&text_color=fff" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HARSHITHA-G-M&theme=radical&background=45,00c6ff,ff6ec7" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHITHA-G-M&layout=compact&theme=radical&bg_color=0,ff6ec7,0072ff&title_color=fff&text_color=fff" height="150">
+</p>
+
+---
+
+## 🌈 **Rainbow Contribution Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHITHA-G-M&theme=tokyo-night&bg_color=0,ff6ec7,0072ff&color=ffffff&line=00ffea&point=ffffff&area=true" />
+</p>
+
+---
+
+## 🏆 **GitHub Metrics Dashboard**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HARSHITHA-G-M&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HARSHITHA-G-M&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HARSHITHA-G-M&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HARSHITHA-G-M&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HARSHITHA-G-M&theme=radical" height="150"/>
+</p>
 
 ---
 
