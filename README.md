@@ -23,7 +23,6 @@ I thrive at the intersection of <b>technology, scalability, and innovation</b>.
 
 <p align="center">
 🌱 <b>Current Goals</b><br>
-✔️ Master advanced <b>GitOps & Kubernetes</b> workflows<br>
 ✔️ Contribute to <b>open-source DevOps projects</b> that make real impact<br>
 ✔️ Grow into a <b>DevOps Engineer role</b> where I can design systems that empower innovation at scale
 </p>
